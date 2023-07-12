@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is EC00-9DF2
+
+ Directory of C:\Git Folder\project
+
+12-07-2023  21:44    <DIR>          .
+12-07-2023  21:03    <DIR>          ..
+12-07-2023  21:44                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  337,885,143,040 bytes free
